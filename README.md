@@ -1,9 +1,9 @@
-# <img src="https://github.com/ywang035/numTraineriOS/blob/master/icon_1024.jpg" width="50"> Num Trainer
+# <img src="https://github.com/ywang035/numtrainerios/blob/master/icon_1024.jpg" width="50"> Num Trainer
 
 Aim to help you improve your sensitivity and capability with numbers.
 
 ## Screenshots
-<img src="https://github.com/ywang035/numTraineriOS/blob/master/screenshots/picture%201.jpg" width="200"><img src="https://github.com/ywang035/numTraineriOS/blob/master/screenshots/picture%202.jpg" width="200"><img src="https://github.com/ywang035/numTraineriOS/blob/master/screenshots/picture%203.jpg" width="200"><img src="https://github.com/ywang035/numTraineriOS/blob/master/screenshots/picture%204.jpg" width="200"><img src="https://github.com/ywang035/numTraineriOS/blob/master/screenshots/picture%205.jpg" width="200">
+<img src="https://github.com/ywang035/numtrainerios/blob/master/screenshots/picture%201.jpg" width="200"><img src="https://github.com/ywang035/numtrainerios/blob/master/screenshots/picture%202.jpg" width="200"><img src="https://github.com/ywang035/numtrainerios/blob/master/screenshots/picture%203.jpg" width="200"><img src="https://github.com/ywang035/numtrainerios/blob/master/screenshots/picture%204.jpg" width="200"><img src="https://github.com/ywang035/numtrainerios/blob/master/screenshots/picture%205.jpg" width="200">
 
 ## Features
 
