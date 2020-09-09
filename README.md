@@ -23,3 +23,7 @@ Currently Support Language: English, Chinese (Simplified)
 ## Contact
 
 If you encouter any bugs or if you have any feedback, feel free to email me at y.studio@outlook.com
+
+## Privacy Policy
+
+[Privacy Document](https://github.com/ywang035/numtrainerios/blob/master/PRIVACYPOLICY.md)
